@@ -1,2 +1,4 @@
-# HelloWorld
-first GitHub repo
+# About me
+I'm a programmer looking to branch out
+
+! [headshot](headshot.jpg)
